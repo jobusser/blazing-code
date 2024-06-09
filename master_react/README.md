@@ -1,0 +1,3 @@
+By all means, this is not a display of react mastery.
+Rather, this is merely the start of my journey.
+Who knows if this will be a long journey...
